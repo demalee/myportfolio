@@ -402,20 +402,48 @@
 								<div class="row">
 									<div class="col-lg-4 col-md-4 col-sm-4 col-12 padding-0">
 										<div class="ex_leftside">
-											<h1>2018</h1>
-											<h4>Feb to Dec</h4>
-											<h1>2019</h1>
+											<h1>2023 –</h1>
+											<h4>to</h4>
+											<h1>Present</h1>
 										</div>
 									</div>
 									<div class="col-lg-8 col-md-8 col-sm-8 col-12">
 										<div class="ex_rightside">
-											<h4>Senior UI/UX <span data-hover="Designer"
-													class="data_hover c-pink">Designer</span></h4>
-											<span class="c-pink">Adobe</span>
-											<p class="ex_details">Sed ut unde omnis iste natus error sit totam rem
-												aperiam are many variations of done.</p>
-											<p class="more_content">Extra contant Sed ut perspiciatis unde omnis iste
-												natus.</p>
+											<h4>Senior Solutions Architect <span data-hover="Designer"
+													class="data_hover c-pink"></span></h4>
+											<span class="c-pink">PLC</span>
+											<p class="ex_details">
+Working as a Solutions Architect at Safaricom PLC means you get to
+work with the latest and greatest technologies and be part of a
+team that is building the future.</p>
+										<br>
+										
+
+											<p class="more_content"><ul  class="more_content"><li>Designed and documented end-to-end system
+architectures, including SOA (Service-OrientedArchitecture) and microservices, ensuring alignment with
+business goals and enterprise architecture standards.
+Created detailed design documentation to guide
+development teams.</li>
+<li>​ Led cross-functional teams -developers, engineers and
+business analysts to translate complex business
+challenges into technical roadmaps and system designs.</li>
+<li>Architected cloud-native/hybrid solutions
+(AWS/Azure/GCP) leveraging microservices, APIs, and
+DevOps practices to enhance performance and agility.</li>
+<li>Optimized legacy systems by modernizing architectures,
+improving integration patterns, and reducing technical
+debt. This includes migration from TIBCO to open source
+Springboot microservices</li>
+<li>Governed technology standards, ensuring compliance
+with security, scalability, and industry best practices (e.g.,
+TOGAF, Agile, CI/CD).</li>
+<li>Acted as a strategic advisor, presenting solution
+proposals to vendors and stakeholders with clear ROI
+and risk analysis.</li>
+<li>Mentored junior architects and engineers, fostering best
+practices in system design, documentation, and
+decision-making.</li>
+<li>Evaluated and tested technical architectures </li></ul></p>
 											<a class="ex_btn">Read More</a>
 										</div>
 									</div>
