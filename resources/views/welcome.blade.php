@@ -572,9 +572,9 @@
 							<div class="port_services_box_wrapper">
 								<div class="port_services_box">
 									<img src="assets/images/services/port_services01.png" alt="service-image">
-									<h2 class="project_heading">Web Design</h2>
-									<p class="project_pera">Vestibulum condimentum vehicula massa, ac convallis
-										nullarell.</p>
+									<h2 class="project_heading">Solutions Architect</h2>
+									<p class="project_pera">
+Leverage our Solutions Architect expertise to design and implement the ideal technology solutions for your business. I provide strategic guidance and technical insight to help you achieve your goals efficiently.</p>
 								</div>
 							</div>
 						</div>
@@ -582,9 +582,10 @@
 							<div class="port_services_box_wrapper">
 								<div class="port_services_box">
 									<img src="assets/images/services/port_services02.png" alt="service-image">
-									<h2 class="project_heading">Photoshop</h2>
-									<p class="project_pera">Vestibulum condimentum vehicula massa, ac convallis
-										nullarell.</p>
+									<h2 class="project_heading">Web app | Website development</h2>
+									<p class="project_pera">
+
+I give you a digital glimpse of our awesomeness in the digital world by creating remarkable products for you.</p>
 								</div>
 							</div>
 						</div>
@@ -592,9 +593,24 @@
 							<div class="port_services_box_wrapper">
 								<div class="port_services_box">
 									<img src="assets/images/services/port_services03.png" alt="service-image">
-									<h2 class="project_heading">Marketing</h2>
-									<p class="project_pera">Vestibulum condimentum vehicula massa, ac convallis
-										nullarell.</p>
+									<h2 class="project_heading">DevOps and GCP</h2>
+									<p class="project_pera">
+
+I integrate and automate software development operations so as to shorten your system lifecycle.
+
+-Version Control Tool: Git (GitLab, GitHub, Bitbucket)
+
+-Continuous Integration Tool: Jenkins
+
+-Container Platforms: Docker
+
+-AWS
+
+-Azure Cloud Computing
+
+-Google Cloud Platform
+
+-Nginx Server,Linux Commands, Digital Ocean,Cpanel</p>
 								</div>
 							</div>
 						</div>
@@ -602,9 +618,9 @@
 							<div class="port_services_box_wrapper">
 								<div class="port_services_box">
 									<img src="assets/images/services/port_services04.png" alt="service-image">
-									<h2 class="project_heading">Illustrator</h2>
-									<p class="project_pera">Vestibulum condimentum vehicula massa, ac convallis
-										nullarell.</p>
+									<h2 class="project_heading">Restful API developer</h2>
+									<p class="project_pera">
+I implement APIs that connects/communicates with your mobile app or web app to serve your desired functionality.</p>
 								</div>
 							</div>
 						</div>
@@ -612,9 +628,9 @@
 							<div class="port_services_box_wrapper">
 								<div class="port_services_box ">
 									<img src="assets/images/services/port_services05.png" alt="service-image">
-									<h2 class="project_heading">Social Media </h2>
-									<p class="project_pera">Vestibulum condimentum vehicula massa, ac convallis
-										nullarell.</p>
+									<h2 class="project_heading">Mobile App Development </h2>
+									<p class="project_pera">
+Almost everyone today has a smartphone. Create an app today and engage easily with your clients in their favorite platform</p>
 								</div>
 							</div>
 						</div>
@@ -622,9 +638,9 @@
 							<div class="port_services_box_wrapper">
 								<div class="port_services_box">
 									<img src="assets/images/services/port_services06.png" alt="service-image">
-									<h2 class="project_heading">Graphics</h2>
-									<p class="project_pera">Vestibulum condimentum vehicula massa, ac convallis
-										nullarell.</p>
+									<h2 class="project_heading">UX/UI Design</h2>
+									<p class="project_pera">
+-Managing and ensuring user journey and experience is eye-catching is part of my interest.Great web app and websites demands great user experience.</p>
 								</div>
 							</div>
 						</div>
