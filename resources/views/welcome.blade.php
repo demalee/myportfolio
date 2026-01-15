@@ -49,14 +49,14 @@
 						<div class="banner_content">
 							<div class="bannner_leftpart">
 								<h2 class="stranger">HELLO! <span class="stran">Stranger!</span></h2>
-								<h1 class="banner_name ">Mr. John Weary</h1>
+								<h1 class="banner_name ">Mr. Wilson Kibet</h1>
 
-								<p class="banner_pera"> Freelance </p>
+								<p class="banner_pera"> Software Engineer| Solutions Architect| DevOps </p>
 								<div class="banner_typingtext">
 									<ul class="texts home-desc">
-										<li class="list-inline-item">Web & Mobile UI/UX Designer</li>
-										<li class="list-inline-item">Front End Developer</li>
-										<li class="list-inline-item">Web Designer & Developer</li>
+										<li class="list-inline-item">Web & Mobile Developer</li>
+										<li class="list-inline-item">DevOps</li>
+										<li class="list-inline-item">Solutions Architect</li>
 									</ul>
 								</div>
 								<div class="banner_btn">
@@ -410,7 +410,7 @@
 									<div class="col-lg-8 col-md-8 col-sm-8 col-12">
 										<div class="ex_rightside">
 											<h4>Senior Solutions Architect <span data-hover="Designer"
-													class="data_hover c-pink"></span></h4>
+													class="data_hover c-pink">Safaricom</span></h4>
 											<span class="c-pink">PLC</span>
 											<p class="ex_details">
 Working as a Solutions Architect at Safaricom PLC means you get to
@@ -455,20 +455,28 @@ decision-making.</li>
 								<div class="row">
 									<div class="col-lg-4 col-md-4 col-sm-4 col-12 padding-0">
 										<div class="ex_leftside">
-											<h1>2016</h1>
-											<h4>Feb to Dec</h4>
-											<h1>2017</h1>
+											<h1>2021</h1>
+											<h4>October to </h4>
+											<h1>2023</h1>
 										</div>
 									</div>
 									<div class="col-lg-8 col-md-8 col-sm-8 col-12">
 										<div class="ex_rightside">
-											<h4>Senior UI/UX <span data-hover="Designer"
-													class="data_hover c-yellow">Designer</span></h4>
-											<span class="c-yellow">Adobe</span>
-											<p class="ex_details">Sed ut unde omnis iste natus error sit totam rem
-												aperiam are many variations of done.</p>
-											<p class="more_content">Extra contant Sed ut perspiciatis unde omnis iste
-												natus.</p>
+											<h4>Lead Software Developer  <span data-hover="Designer"
+													class="data_hover c-yellow">,Ecobba LTD</span></h4>
+											<span class="c-yellow">LTD</span>
+											<p class="ex_details">Ecobba is a platform built to support all kinds of savings and
+investment groups, from SACCOS organizations to informal
+community societies like Chamas, ViCoBa, Stokvels and the likes..</p>
+<br>
+											<p class="more_content"><ul  class="more_content"><li>Led a development team in designing, developing, and
+maintaining scalable web applications using Laravel (PHP),
+ensuring adherence to best practices in code quality, security,
+and performance.</li>
+<li>​ Spearheaded server-side architecture, database design, and API development (RESTful services), enabling seamless
+integration with internal/external systems.</li>
+<li>Conducted rigorous code reviews, mentored junior developers, and enforced coding standards to maintain
+high-quality deliverables.</li></ul></p>
 											<a class="ex_btn">Read More</a>
 										</div>
 									</div>
@@ -480,21 +488,30 @@ decision-making.</li>
 								<div class="row">
 									<div class="col-lg-8 col-md-8 col-sm-8 col-12">
 										<div class="ex_rightside">
-											<h4>Senior PHP <span data-hover="Developer"
-													class="data_hover c-orange">Developer</span></h4>
-											<span class="c-orange">Facebook</span>
-											<p class="ex_details">Sed ut unde omnis iste natus error sit totam rem
-												aperiam are many variations of done.</p>
-											<p class="more_content">Extra contant Sed ut perspiciatis unde omnis iste
-												natus.</p>
+											<h4>Fullstack Software Engineer,  <span data-hover="Developer"
+													class="data_hover c-orange">Riverbank Solutions LTD</span></h4>
+											
+											<p class="ex_details">In a world where payment technologies and services have become
+central in shaping the behavior of Industries and Markets, prideourselves in delivering payments solutions and services that are
+Creative, flexible and dynamic..</p>
+										<br><p class="more_content"><ul  class="more_content"><li>Developed and maintained secure, high-performance
+payment applications using Laravel and Zend Framework
+(PHP), enabling flexible and dynamic transaction processing
+for diverse industry needs.</li>
+<li>​ Built microservices-based architectures to enhance scalability
+and reliability of payment systems, integrating with RDBMS
+(SQL) and Redis for low-latency data processing and caching.</li>
+<li>Leveraged JavaScript and AJAX to create responsive
+front-end interfaces, ensuring seamless user experiences for
+financial operations.</li></ul></p>
 											<a class="ex_btn">Read More</a>
 										</div>
 									</div>
 									<div class="col-lg-4 col-md-4 col-sm-4 col-12 padding-0">
 										<div class="ex_leftside">
-											<h1>2014</h1>
-											<h4>Mar to Apr</h4>
-											<h1>2015</h1>
+											<h1>2023</h1>
+											<h4>May to August</h4>
+											<h1>2023</h1>
 										</div>
 									</div>
 								</div>
